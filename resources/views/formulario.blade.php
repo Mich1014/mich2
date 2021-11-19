@@ -10,7 +10,7 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("form.jpg");
+    background-image: url("https://miro.medium.com/max/1400/1*SVtd2DDyI60HtLOmLRwpnQ.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -113,8 +113,8 @@ form .nacimiento {
         </style>
     </head>
 <body>
-        <form action="formm.php"
-        method="GET">
+        <form action=""
+        method="Post">
         <p>Nombre: <input type="text" 
         name="Nombre" size="40"></p>
         <p>Apellido: <input type="text"
